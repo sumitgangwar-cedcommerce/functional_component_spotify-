@@ -1,0 +1,45 @@
+#Component6{
+    background-color: black;
+    color: white;
+    padding-bottom: 3vw;
+}
+#Component6 #upper{
+    display: flex;
+    padding-top: 2vw;
+    margin-left:17vw ;
+}
+#Component6 #upper div{
+    margin-left: 5vw;
+    font-size: 1vw;
+    color: white;
+    cursor: pointer;
+}
+#Component6 #upper .head_f{
+    color: rgb(217, 215, 215);
+}
+#Component6 #upper img{
+    width: 8vw;
+    height: 5vw;
+}
+#Component6 #upper #icons img{
+    width: 2vw;
+    height: 2vw;
+    margin-left: 2vw;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#Component6 #lower a{
+    text-decoration: none;
+    color: white;
+    margin-left: 2vw;
+}
+#Component6 #lower{
+    display: flex;
+    font-size: 1vw;
+    margin-left:15vw;
+    margin-top: 8vw;
+
+}
+#Component6 #lower div{
+    margin-left: 20vw;
+} 

@@ -1,0 +1,36 @@
+#Component3{
+    color: white;
+    background-color: black;
+}
+#Component3 center{
+    padding-bottom: 3vw;
+}
+#Component3 #head3{
+    padding-top: 3vw;
+    padding-bottom: 3vw;
+    font-size: 2vw;
+}
+#Component3 #content3{
+    margin-top: 2vw;
+    margin-left: 10vw;
+    display: flex;
+}
+#Component3 img{
+    width: 13vw;
+    height: 13vw;
+    margin-bottom: 2vw;
+}
+#Component3 .card{
+    cursor: pointer;
+    font-size: 1vw;
+    width: 13vw;
+    margin-left: 6vw;
+}
+#Component3 .card b{
+    font-size: 1.5vw;
+    
+}
+
+#Component3 #head3{
+    display: block;
+}

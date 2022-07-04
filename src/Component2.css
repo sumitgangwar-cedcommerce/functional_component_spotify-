@@ -1,0 +1,19 @@
+#dataC{
+    display: flex;
+    margin-left:5vw ;
+}
+#Component2 img{
+    margin-top: 2vw;
+    width: 80vw;
+}
+#Component2 .item{
+        font-size: 1vw;
+        width: 12vw;
+        margin-left: 8vw;
+}
+#Component2{
+    padding-top: 4vw;
+}
+#Component2 center{
+    padding-bottom: 2vw;
+} 

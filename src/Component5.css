@@ -1,0 +1,16 @@
+#Component5 .question div{
+    padding: 2vw;
+    border-bottom: solid 1px grey;
+    width: 60vw;
+    text-align: left;
+}
+#Component5 .question span img{
+    width: 2vw;
+    float:right;
+    margin-top: .4vw;
+    cursor: pointer;
+}
+#Component5 .question{
+    padding-bottom: 3vw;
+    font-size: 1vw;
+}
